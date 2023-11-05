@@ -1,0 +1,7 @@
+Halo pak. Salam kenal saya caroline dan merupakan mahasiswa semester 7 
+yang sedang ingin belajar sedikit mengenai pemprograman
+
+Resolusi Saya :
+- Membuat web/aplikasi dengan C# dan ASP.Net
+- Membuat web dengan phyton
+- Bekerja menjadi UI/UX
